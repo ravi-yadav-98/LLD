@@ -1,25 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e3e767-bca5-4714-89c9-52a25841a2e7" name="Changes" comment="" />
+    <list default="true" id="49e3e767-bca5-4714-89c9-52a25841a2e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/GUIAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/MacFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/MacTextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/WinButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/WinFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactory/WinTextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builders/BuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builders/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Builders/StudentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoriesDP/LinuxOperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoriesDP/OperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoriesDP/OperatingSystemFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoriesDP/TestFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoriesDP/Vehicle/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoriesDP/Vehicle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoriesDP/Vehicle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoriesDP/Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoriesDP/Vehicle/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoriesDP/WindowsOperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryMethod/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryMethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryMethod/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryMethod/MobileFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryMethod/OnePlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryMethod/RealMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Prototypes/sol1/IntelligentStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Prototypes/sol1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Prototypes/sol1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Prototypes/sol3/StudentRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/BreakUsingReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/DataBaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/EagerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/EnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton/TestEnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GarbageCollection/GC/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GarbageCollection/GC/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GarbageCollection/InternalizedStrings/StringsObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMemoryManagement/FinalKeywords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMemoryManagement/PassByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMemoryManagement/PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AbstractClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AbstractClass/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AbstractClass/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AccessModifier/package1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AccessModifier/package1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AccessModifier/package1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AccessModifier/package2/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AccessModifier/package2/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/InterfaceExplore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Polymorphism/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Polymorphism/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Polymorphism/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Polymorphism/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Polymorphism/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflections/Into2Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/BirdLLD/BirdV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/BirdLLD/BirdV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/BirdLLD/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/BirdLLD/V2/BirdV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/BirdLLD/V2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/BirdLLD/V3/BirdV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/BirdLLD/V3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/BirdLLD/V4/BirdV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/BirdLLD/V4/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2O0qgMLwtxVhs4j5pxbwhy7eK4V" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Project.color": "000f4c",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;000f4c&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,5 +129,32 @@
       <updated>1680707958758</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaMemoryManagement/PassByReference.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
