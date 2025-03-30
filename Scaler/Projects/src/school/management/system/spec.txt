@@ -1,0 +1,25 @@
+Create " School Management System "
+(Maintain Students, Teachers and funds)
+// Money Management System for School
+
+
+Keep Track of
+ - Student total fees
+ - fees already paid
+ - teachers salary
+
+
+ //School class
+ Teachers,
+ Students,
+ Total Money Earned
+ Total Money spent - teacher salary
+
+ //Teacher class
+ id, name, salary
+
+
+ //Student class
+ id, name, grade, fees paid, fees total
+
+  class  = Noun (properties and behaviour of noun)

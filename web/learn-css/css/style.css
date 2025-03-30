@@ -1,0 +1,154 @@
+/* Type of Selectors */
+/* 1. Element Selector */
+/* body{
+    background-color: rgb(211, 237, 237);
+} */
+
+/* 2. ID Selector */
+/* #wish{
+    color: green;
+    background-color: rgb(198, 166, 150);
+    font-size: 40px;
+} */
+
+/* 3. Class Selector */
+/* .ravi{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+ */
+
+
+ /* group */
+/* li, div{
+    color: rgb(8, 0, 255);
+} */
+
+body
+{
+    background-color: rgb(230, 205, 158);
+    /* background-image: url('../img/back.jpg'); */
+    /* background-repeat: no-repeat;
+    background-position: right top; */
+    margin: 0px;
+}
+
+.nav
+{
+    /* border-style: solid;
+    border-color: blue; */
+    margin-bottom: 10px;
+    background-color: black;
+}
+.class{
+    /* border-style: dashed;
+    border-bottom-style: groove;
+    border-width: 2px;
+    border-color: brown; */
+    border: 5px solid green;
+    border-radius: 18px;
+    /* margin-top: 40px;
+    margin-left:80px;
+    margin-right: 80px; */
+    /* margin-shorthand: top, right, botom, left */
+    /* margin: 50px 40px 20px 50px; */
+    margin: 50px;
+    width: 50%;
+    height: 200px;
+    padding: 50px;
+    outline: 4px solid red;
+    color: blue;
+    text-align: left;
+    word-spacing: 2px;
+    text-shadow:2cap;
+    direction: ltr;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 1.4vw;
+
+}
+
+.class em{
+    /* text-decoration: line-through; */
+    text-transform: capitalize;
+    letter-spacing: 3px;
+}
+
+a{
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    color: white;
+}
+
+a:hover{
+    background-color: gray;
+    color: black;
+    font-size: 20px;
+}
+
+.items{
+    list-style-type: square;
+    background-color:black;
+    padding: 50px;
+    width: 50%;
+}
+
+.item{
+    display: inline;
+    margin: 20px;
+   
+}
+
+
+.container{
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    border: 3px solid blue;
+    box-sizing: border-box;
+}
+
+.first
+{
+    background-color: red;
+   
+    height: 100px;
+    width: 40%;
+    display: inline-block;
+}
+
+.second
+{
+    background-color: green;
+
+    height: 100px;
+    width: 40%;
+    display: inline-block;
+    float: right;
+}
+
+.myflex
+{
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.myflex > div{
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.mycont{
+    
+}
